@@ -1,6 +1,7 @@
 # LIRI-Bot
 David Ferro
-No GitHub Pages link, sorry.  This application is run from the command line.
+
+This application is run from the command line instead of from a webpage.
 
 ## Description
 This is a command line application that can find you information on concerts from your favorite band/artist, information on your favorite songs, and information on your favorite movies.
