@@ -22,7 +22,7 @@ function titleCase(str) {
 
 function logToFile (input) {
     var loggingText = "\r\n" + input;
-    fs.appendFile("log.txt", loggingText, function(err) {
+    fs.appendFileSync("log.txt", loggingText, function(err) {
         if (err) {
             console.log(err);
         }
