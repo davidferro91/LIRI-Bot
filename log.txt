@@ -1,0 +1,245 @@
+
+
+- Your options are "concert-this", "spotify-this-song", "movie-this", and "do-what-it-says".
+- "concert-this", "spotify-this-song", and "movie-this" will all take in more inputs after the command for the particular band, song, or movie about which you would like to find information.
+- "do-what-it-says" will read the file random.txt and execute the command with the inputs that are in that file.
+concert-this
+manhattan transfer
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Bermuda Festival of the Performing Arts
+Venue location: Southampton, Bermuda
+Date of Event: 01/19/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: 2019 CMEA Clinic/Conference President's Concert
+Venue location: Colorado Springs, CO United States
+Date of Event: 01/24/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Kinser Jazz Festival 2019
+Venue location: Casper, WY United States
+Date of Event: 02/05/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Dimitriou's Jazz Alley
+Venue location: Seattle, WA United States
+Date of Event: 02/07/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Dimitriou's Jazz Alley
+Venue location: Seattle, WA United States
+Date of Event: 02/08/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Dimitriou's Jazz Alley
+Venue location: Seattle, WA United States
+Date of Event: 02/09/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Dimitriou's Jazz Alley
+Venue location: Seattle, WA United States
+Date of Event: 02/10/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Blue Note Hawaii
+Venue location: Honolulu, HI United States
+Date of Event: 02/13/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Blue Note Hawaii
+Venue location: Honolulu, HI United States
+Date of Event: 02/14/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Blue Note Hawaii
+Venue location: Honolulu, HI United States
+Date of Event: 02/15/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Blue Note Hawaii
+Venue location: Honolulu, HI United States
+Date of Event: 02/16/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: Kahilu Theatre Foundation
+Venue location: Waimea, HI United States
+Date of Event: 02/17/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: The Palms at Crown Melbourne
+Venue location: Southbank, Australia
+Date of Event: 02/22/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: City Recital Hall
+Venue location: Sydney, Australia
+Date of Event: 02/24/2019
+
+Artist: 
+The Manhattan Transfer
+Name of venue: HURSTVILLE ENTERTAINMENT CENTRE
+Venue location: Hurstville, Australia
+Date of Event: 02/27/2019
+
+Artist: 
+The Manhattan Transfer
+Take 6
+Name of venue: Kauffman Center for the Performing Arts
+Venue location: Kansas City, MO United States
+Date of Event: 03/30/2019
+
+Artist: 
+The Manhattan Transfer
+Take 6
+Name of venue: The Summit: The Manhattan Transfer Meets Take 6
+Venue location: East Lansing, MI United States
+Date of Event: 04/10/2019
+spotify-this-song
+i believe
+
+Artists: 
+LeAnn Rimes
+Name: I Still Believe in Santa Claus - North Pole Mix
+Spotify URL: https://open.spotify.com/track/3TZgrPPkcfK9Ti1vibMTOD
+Album: It's Christmas, Eve (Original Motion Picture Soundtrack)
+
+Artists: 
+The Darkness
+Name: I Believe In A Thing Called Love
+Spotify URL: https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA
+Album: Permission To Land
+
+Artists: 
+The 1975
+Name: If I Believe You
+Spotify URL: https://open.spotify.com/track/2J3ajGI1sVj9wnqThJHwPS
+Album: I like it when you sleep, for you are so beautiful yet so unaware of it
+
+Artists: 
+FLETCHER
+Name: I Believe You
+Spotify URL: https://open.spotify.com/track/4GUXTRTjQ4voLzwLw9qbPx
+Album: I Believe You
+
+Artists: 
+Danielle Bradbery
+Name: Worth It
+Spotify URL: https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh
+Album: I Don't Believe We've Met
+
+Artists: 
+Hillsong Worship
+Name: This I Believe (The Creed) - Live
+Spotify URL: https://open.spotify.com/track/4Hrr4U80Rk1tWXlP8RFTAb
+Album: No Other Name (Deluxe Edition/Live)
+
+Artists: 
+Danielle Bradbery
+Name: Sway
+Spotify URL: https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc
+Album: I Don't Believe We've Met
+
+Artists: 
+R. Kelly
+Name: I Believe I Can Fly
+Spotify URL: https://open.spotify.com/track/2RzJwBCXsS1VnjDm2jKKAa
+Album: R.
+
+Artists: 
+Michael Bublé
+Name: I Believe in You
+Spotify URL: https://open.spotify.com/track/67aeyMdt7cgb8l9zg53Pfm
+Album: Nobody But Me (Deluxe Version)
+
+Artists: 
+Jacksepticeye
+The Gregory Brothers
+Name: All the Way (I Believe In Steve)
+Spotify URL: https://open.spotify.com/track/4vmERH5UYG1FLcR2sTBcjY
+Album: All the Way (I Believe In Steve)
+
+Artists: 
+LÉON
+Name: I Believe in Us
+Spotify URL: https://open.spotify.com/track/59JtQ8mThUAnRGValaExhc
+Album: Surround Me - EP
+
+Artists: 
+Big Daddy Weave
+Name: Jesus I Believe
+Spotify URL: https://open.spotify.com/track/3HRfH5dCEmrc4kquT51XgE
+Album: Beautiful Offerings (Deluxe Edition)
+
+Artists: 
+Andrew Rannells
+Name: I Believe
+Spotify URL: https://open.spotify.com/track/4YfNmQKnrX5DrlAxSAnMoA
+Album: The Book Of Mormon (Original Broadway Cast Recording)
+
+Artists: 
+Danielle Bradbery
+Name: Potential
+Spotify URL: https://open.spotify.com/track/7cVN6hFZXum5NCtLHneeo2
+Album: I Don't Believe We've Met
+
+Artists: 
+$uicideBoy$
+Name: I Want To Believe
+Spotify URL: https://open.spotify.com/track/7BECjy4nQHco8yQ16hE1Sr
+Album: Eternal Grey
+
+Artists: 
+Danielle Bradbery
+Name: Hello Summer
+Spotify URL: https://open.spotify.com/track/1Py9Urx7hyITkFJJjDZQCm
+Album: I Don't Believe We've Met
+
+Artists: 
+Branches
+Name: I Believe in a Thing Called Love
+Spotify URL: https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW
+Album: Covers
+
+Artists: 
+Don Williams
+Name: I Believe In You
+Spotify URL: https://open.spotify.com/track/2XQUerfdDAi7Ncla2a4skr
+Album: Don Williams 20 Greatest Hits
+
+Artists: 
+Elvis Presley
+Name: I Believe
+Spotify URL: https://open.spotify.com/track/41GSL9lAosGHYXxpfDcOGW
+Album: Elvis' Christmas Album
+
+Artists: 
+Jessie J
+Name: I Believe In Love
+Spotify URL: https://open.spotify.com/track/4tOmFSoQA9ji8lTxAbbvq1
+Album: R.O.S.E. (Empowerment)
+movie-this
+lion king
+
+Title: The Lion King
+Release Year: 1994
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 93%
+Country produced: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
