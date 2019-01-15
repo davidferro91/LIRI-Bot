@@ -359,3 +359,27 @@ Album: Kidz Bop
 - Your options are "concert-this", "spotify-this-song", "movie-this", and "do-what-it-says".
 - "concert-this", "spotify-this-song", and "movie-this" will all take in more inputs after the command for the particular band, song, or movie about which you would like to find information.
 - "do-what-it-says" will read the file random.txt and execute the command with the inputs that are in that file.
+movie-this
+magical mystery tour
+Title: Magical Mystery Tour
+Release Year: 1967
+IMDB Rating: 6.2
+Rotten Tomatoes Rating: 62%
+Country produced: UK
+Language: English
+Plot: The Beatles charter a special bus for a surreal mystery tour.
+Actors: The Bonzo Dog Doo-Dah Band, Jan Carson, George Claydon, Ivor Cutler
+- Your options are "concert-this", "spotify-this-song", "movie-this", and "do-what-it-says".
+- "concert-this", "spotify-this-song", and "movie-this" will all take in more inputs after the command for the particular band, song, or movie about which you would like to find information.
+- "do-what-it-says" will read the file random.txt and execute the command with the inputs that are in that file.
+movie-this
+lion king
+
+Title: The Lion King
+Release Year: 1994
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 93%
+Country produced: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings

@@ -138,9 +138,12 @@ function ombdThis (movie) {
     axios.get(queryUrl).then(
         function (response) {
             // console.log(response.data);
+            var lineBreak = "";
             var movieTitle = "Title: " + response.data.Title;
             var releaseYear = "Release Year: " + response.data.Year;
             var movieIMDB = "IMDB Rating: " + response.data.imdbRating;
+            logToFile(lineBreak);
+            console.log(lineBreak);
             logToFile(movieTitle);
             console.log(movieTitle);
             logToFile(releaseYear);
@@ -313,9 +316,12 @@ for (var i = 0; i < optionsArr.length; i++) {
 }
 
 if (userInputs[2] === undefined || incorrectCommand) {
+    var lineBreak = "";
     var optionsText = "- Your options are \"concert-this\", \"spotify-this-song\", \"movie-this\", and \"do-what-it-says\".";
     var whatTheFirstThreeDo = "- \"concert-this\", \"spotify-this-song\", and \"movie-this\" will all take in more inputs after the command for the particular band, song, or movie about which you would like to find information.";
     var whatTheLastDoes = "- \"do-what-it-says\" will read the file random.txt and execute the command with the inputs that are in that file.";
+    logToFile(lineBreak);
+    console.log(lineBreak);
     logToFile(optionsText);
     console.log(optionsText);
     logToFile(whatTheFirstThreeDo);
